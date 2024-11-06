@@ -1,0 +1,35 @@
+/* global.css */
+html {
+  font-size: 18px; /* Augmente la taille de police de base */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+button {
+  font-size: 1rem; /* Ajuste la taille des boutons */
+  padding: 1rem 2rem;
+}
+
+.container {
+  max-width: 1200px; /* Ajuste la largeur maximale pour tout agrandir */
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.navbar {
+  font-size: 1.2rem; /* Augmente la taille des liens de navigation */
+}
+
+article {
+  font-size: 1.1rem; /* Agrandit le contenu des articles */
+}

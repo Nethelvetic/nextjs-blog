@@ -1,0 +1,43 @@
+/* layout.module.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.navbar {
+  background-color: #6a0dad; /* Violet color */
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem 0;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header {
+  /* Your header styles */
+}
+
+.main {
+  /* Your main styles */
+}
+
+.footer {
+  /* Your footer styles */
+}
+
+.button {
+  background-color: #6a0dad; /* Same color as navbar */
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: inherit;
+  padding: 1rem 2rem;
+  border: none;
+  cursor: pointer;
+}
